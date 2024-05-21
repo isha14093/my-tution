@@ -1,0 +1,92 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar{
+    height: 5.5rem;
+    background-color: #2D3047;
+    display: flex;
+}
+body{
+    background-color: #048A81;
+}
+
+.image1{
+   padding-top: 0.3rem;
+  height: 4.5rem;  
+  border-radius: 0.5rem;
+  padding-left: 0.3rem;
+  width: 10rem;
+  padding-bottom: 0.5rem;
+}
+.image1 :hover{
+    opacity: 50%; 
+}
+.home{
+    text-decoration: none;
+    padding: 2rem; 
+    color: whitesmoke;
+    font-size: 1.3rem;
+}
+.home:hover{
+    border: 0.1rem black;
+}
+.links{
+    text-decoration: none;
+     align-items: center;
+     align-content: center;
+     width: 40rem;
+     height: 2.5rem;
+     margin-left: 5rem;
+     margin-top: 2rem;
+ 
+ }
+
+
+ .box1{
+    border: 0.1rem solid black;
+    height: 7rem;
+ }
+ .img1{
+    height: 4rem;
+    width: 4rem;
+    padding: 1rem;
+ }
+ .box1{
+    display: flex;
+    background-color: #93B7BE;
+ }
+ .name{
+    font-size: 2rem;
+    color: black;
+    padding: 1rem;
+    padding-top: 1rem;
+ }
+ .name1{
+    text-decoration: none;
+    font-size: 2rem;
+    color: black;
+    padding: 1rem;
+    padding-top: 1rem;
+ }
+ .text1{
+    font-size: 1rem;
+    color: black;
+    padding: 1rem;
+    padding-top: 1rem;
+ }
+ .button{
+    padding: 0.5rem;
+    background-color: #E0CA3C;
+    border-radius: 0.5rem;
+    margin-left: 45rem;
+ }
+
+ .footer{
+    height: 10rem;
+    color: whitesmoke;
+    font-size: 1rem;
+    text-align: center;
+    padding-top: 4rem;
+   margin-bottom: 3rem;
+}
